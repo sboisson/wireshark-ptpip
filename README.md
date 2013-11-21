@@ -1,4 +1,4 @@
 wireshark-ptpip
 ===============
 
-Wireshark dissector for Picture Transfer Protocol (PTP)
+Wireshark dissector for Picture Transfer Protocol over IP (PTP/IP)
